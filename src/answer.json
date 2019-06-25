@@ -1,0 +1,12 @@
+{
+    "data": {
+        "id": 2,
+        "direction_id": 1,
+        "name": "Робототехника",
+        "status": 10,
+        "federal_point_activity_id": 65,
+        "img_src": "https://directory.pfdo.ru/img/svg-program-activity/robo1.svg"
+    },
+    "result_code": "FLSCS",
+    "result_message": "Полный успех"
+}
